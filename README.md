@@ -4,20 +4,20 @@
 
 Jaya Jaya Maju adalah salah satu perusahaan multinasional yang telah beroperasi sejak tahun 2000 dan memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri. Meskipun telah berkembang menjadi perusahaan yang berskala besar, Jaya Jaya Maju mengalami tantangan signifikan dalam pengelolaan sumber daya manusia. Salah satu dampak dari tantangan tersebut adalah tingginya attrition rate, dengan rasio karyawan yang meninggalkan perusahaan mencapai lebih dari 10%.
 
-### Business Problem
+### Permasalahan Bisnis
 
 **Masalah bisnis utama yang dihadapi oleh perusahaan Jaya Jaya Maju adalah tingginya attrition rate, yang saat ini berada di atas 10%**. Tingginya angka ini mengindikasikan bahwa jumlah karyawan yang memutuskan untuk mengundurkan diri lebih tinggi dibandingkan dengan yang tetap bertahan di perusahaan. Kondisi ini berdampak signifikan terhadap stabilitas operasional perusahaan. Alur kerja yang terganggu akibat kepergian karyawan menyebabkan pekerjaan menjadi tertunda atau dialihkan kepada karyawan lain, yang pada akhirnya meningkatkan beban kerja individu. Akumulasi beban tambahan ini dapat memperlambat produktivitas secara keseluruhan, memicu efek domino pada efisiensi perusahaan.
 
 **Untuk mengatasi tantangan ini, penting untuk menganalisis secara kritis penyebab utama tingginya attrition rate**. Faktor-faktor yang berkontribusi dapat berasal dari aspek internal, seperti kualitas fasilitas, beban kerja, dan tingkat kepuasan karyawan, maupun dari aspek eksternal, seperti latar belakang individu karyawan. Identifikasi dan pemantauan faktor-faktor ini menjadi langkah penting dalam merancang strategi yang efektif untuk mengurangi attrition rate. Dengan pendekatan ini, perusahaan dapat memastikan keberlanjutan operasional dan meningkatkan retensi karyawan secara berkelanjutan.
 
-### Project Scope
+### Cakupan Proyek
 
 - Data preparation dan data cleaning awal
 - Exploratory Data Analysis (EDA) untuk mencari tahu faktor penyebab attrition rate yang tinggi melalui visualisasi data
 - Membuat business dashboard dari faktor penyebab tingginya attrition rate
 - Mengembangkan model machine learning untuk memprediksi status karyawan berdasarkan variabel-variabel faktor penyebab attrition
 
-### Preparation
+### Persiapan
 
 **Data source:** [Employee data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee 'Dicoding GitHub - Employee data')
 
