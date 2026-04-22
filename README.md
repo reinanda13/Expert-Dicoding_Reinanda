@@ -51,7 +51,7 @@ And to stop the streamlit application program by `ctrl + c`.
 
 ## Business Dashboard
 
-[Permasalahan Human Resources Dashboard]([https://public.tableau.com/views/Tableau_17746866269460/Attrition?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 'Tableau Public- Permasalahan Human Resources'](https://public.tableau.com/app/profile/rizky.putra.reinanda/viz/TableauReinanda/Attrition)), didesain sefektif mungkin untuk memberikan insight kepada para manajer departemen HR terkait attrition rate yang cukup tinggi hingga lebih dari 10%. Dashboard ini juga didesain dengan visualisasi dan pemilihan warna yang inklusif bagi penderita color blind.
+[Permasalahan Human Resources Dashboard](https://public.tableau.com/app/profile/rizky.putra.reinanda/viz/TableauReinanda/Attrition) didesain sefektif mungkin untuk memberikan insight kepada para manajer departemen HR terkait attrition rate yang cukup tinggi hingga lebih dari 10%. Dashboard ini juga didesain dengan visualisasi dan pemilihan warna yang inklusif bagi penderita color blind.
 
 ![Permasalahan Human Resources Dashboard](https://github.com/reinanda13/Expert-Dicoding_Reinanda/blob/main/Publish%20Tableau_Reinanda.jpeg 'Permasalahan Human Resources Dashboard')
 
